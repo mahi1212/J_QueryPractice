@@ -1,0 +1,33 @@
+.divStyle1{
+    height: 200px;
+    width: 700px;
+    background: rgb(22, 189, 231);
+    padding: 20px;
+}
+
+.divStyle2{
+    height: 200px;
+    width: 1000px;
+    background: rgb(7, 177, 50);
+    padding: 20px;
+}
+
+.divStyle3{
+    height: 200px;
+    width: 700px;
+    background: rgb(42, 79, 182);
+    padding: 20px;
+}
+
+.divStyle4{
+    height: 200px;
+    width: 700px;
+    background: rgb(175, 18, 214);
+    padding: 20px;
+}
+.divStyle5{
+    height: 200px;
+    width: 700px;
+    background: rgb(235, 100, 10);
+    padding: 20px;
+}

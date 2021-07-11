@@ -1,0 +1,10 @@
+.style{
+    color:rgb(90, 170, 53);
+    font-size: 4rem;
+}
+
+.style_h4{
+    font-style: italic;
+    display:inline;
+    padding: 10px;
+}

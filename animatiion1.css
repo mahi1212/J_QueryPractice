@@ -1,0 +1,41 @@
+.div-style{
+    height: 250;
+    width: 800;
+    margin-top: 20px;
+    padding: 10px;
+    background: lightcoral;
+}
+
+.div-style2{
+    display: none; 
+    height: 250;
+    width: 800;
+    margin-top: 20px;
+    padding: 10px;
+    background: rgb(2, 192, 119);
+}
+
+.div-style3{
+    height: 250;
+    width: 800;
+    margin-top: 20px;
+    padding: 10px;
+    background: rgb(3, 131, 114);
+}
+
+.div-style4{
+    display: none;
+    height: 250;
+    width: 800;
+    margin-top: 20px;
+    padding: 10px;
+    background: rgb(62, 77, 211);
+}
+
+.div-style5{
+    height: 250;
+    width: 800;
+    margin-top: 20px;
+    padding: 10px;
+    background: rgb(14, 153, 14);
+}
